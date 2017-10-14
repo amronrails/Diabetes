@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient_id: 1
+  sayem: 1.5
+  fater: 1.5
+  ashwa2y: 1.5
+
+two:
+  patient_id: 1
+  sayem: 1.5
+  fater: 1.5
+  ashwa2y: 1.5
